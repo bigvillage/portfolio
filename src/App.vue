@@ -6,7 +6,7 @@
 
     <header class="site-header">
       <div class="header-inner">
-        <a href="#top" class="logo"> SHIN. </a>
+        <a href="#top" class="logo"> KJH </a>
 
         <nav class="navigation">
           <a href="#about">ABOUT</a>
@@ -676,7 +676,14 @@
                   FULL-STACK / PERSONAL PROJECT / 기간: 2026.04.01 ~ 2026.05.27
                 </span>
 
-                <h3>DOC DRIVE</h3>
+                <div class="project-title">
+                  <h3>DOC DRIVE</h3>
+                  <img
+                    src="./assets/express.png"
+                    alt="Express"
+                    class="project-title-icon"
+                  />
+                </div>
                 <div class="technology-list">
                   <span style="font-size: 13px">
                     <a
@@ -703,9 +710,10 @@
                     </a></span
                   >
                 </div>
+                <br />
                 <div class="project-image">
                   <img
-                    src="./assets/login.png"
+                    src="../docs/images/dashboard.png"
                     alt="DOC DRIVE 문서관리시스템"
                   />
                 </div>
@@ -831,7 +839,15 @@
                   2026.08.14
                 </span>
 
-                <h3>DOC DRIVE</h3>
+                <div class="project-title">
+                  <h3>DOC DRIVE</h3>
+
+                  <img
+                    src="./assets/nest.png"
+                    alt="Nest"
+                    class="project-title-icon"
+                  />
+                </div>
                 <div class="technology-list">
                   <span style="font-size: 13px">
                     <a
@@ -861,7 +877,7 @@
                 <br />
                 <div class="project-image">
                   <img
-                    src="./assets/dashboard.png"
+                    src="../docs/images/dashboard.png"
                     alt="DOC DRIVE 문서관리시스템"
                   />
                 </div>
@@ -1251,5 +1267,25 @@ onBeforeUnmount(() => {
   flex-shrink: 0;
   font-weight: 700;
   color: #888;
+}
+.project-title {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  height: 32px;
+}
+
+.project-title h3 {
+  margin: 0;
+  line-height: 1;
+}
+
+.project-title-icon {
+  width: 100px;
+  height: 100px;
+  display: block;
+  object-fit: contain;
+  position: relative;
+  top: 13px;
 }
 </style>
