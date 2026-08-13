@@ -103,14 +103,5 @@ Node.js + Express.js + Vue.js 기반으로 개발한 초기 문서관리시스�
 ---
 
 📮 Contact
-Portfolio
-
-https://bigvillage.github.io/portfolio/
-
-GitHub
-
-https://github.com/bigvillage
-
 Email
-
 kwoghks0213@gmail.com
