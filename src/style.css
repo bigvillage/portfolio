@@ -1964,4 +1964,40 @@ RESPONSIVE
   .contact-link-value {
     font-size: 11px;
   }
+  .project-github-arrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+
+    margin-left: 15px;
+
+    text-decoration: none;
+    vertical-align: middle;
+  }
+
+  .project-github-arrow span {
+    display: inline-block;
+
+    padding: 5px 9px;
+
+    border: 1px solid #c9c8c1;
+
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 10px !important;
+    font-weight: 500;
+
+    color: #66655f;
+    background: transparent;
+
+    transition:
+      color 0.25s ease,
+      background 0.25s ease,
+      border-color 0.25s ease;
+  }
+
+  .project-github-arrow:hover span {
+    color: #fff;
+    background: #111;
+    border-color: #111;
+  }
 }

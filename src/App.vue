@@ -382,16 +382,14 @@
               <h3>Language</h3>
 
               <p>
-                REST API를 설계하고 서버의 비즈니스 로직과 인증 구조를
-                구현합니다.
+                JavaScript와 TypeScript를 기반으로 웹 서비스의 기능을 구현하고,
+                SQL을 활용해 데이터 조회와 관리 로직을 구성합니다.
               </p>
 
               <div class="technology-list">
-                <span style="font-size: 13px"> JavaScript </span>
-
-                <span style="font-size: 13px"> TypeScript </span>
-
-                <span style="font-size: 13px"> SQL </span>
+                <span style="font-size: 13px">JavaScript</span>
+                <span style="font-size: 13px">TypeScript</span>
+                <span style="font-size: 13px">SQL</span>
               </div>
             </article>
 
@@ -399,15 +397,15 @@
               <h3>Backend</h3>
 
               <p>
-                서비스 특성에 맞는 데이터 구조를 설계하고 검색과 조회 성능을
-                고려합니다.
+                Node.js와 Express, NestJS를 활용해 REST API를 설계하고 인증부터
+                비즈니스 로직, 파일 처리까지 서버 기능을 구현합니다.
               </p>
 
               <div class="technology-list">
-                <span style="font-size: 13px"> Node.js </span>
-                <span style="font-size: 13px"> Express </span>
-                <span style="font-size: 13px"> NestJS </span>
-                <span style="font-size: 13px"> REST API </span>
+                <span style="font-size: 13px">Node.js</span>
+                <span style="font-size: 13px">Express</span>
+                <span style="font-size: 13px">NestJS</span>
+                <span style="font-size: 13px">REST API</span>
               </div>
             </article>
 
@@ -415,15 +413,15 @@
               <h3>FRONTEND</h3>
 
               <p>
-                API와 연결되는 화면을 구성하고 사용자가 이해하기 쉬운 UI를
-                구현합니다.
+                Vue.js와 TypeScript를 활용해 API와 연동되는 화면을 구현하고,
+                Pinia를 통해 애플리케이션의 상태와 사용자 데이터를 관리합니다.
               </p>
 
               <div class="technology-list">
-                <span style="font-size: 13px"> Vue.js </span>
-                <span style="font-size: 13px"> Pinia </span>
-                <span style="font-size: 13px"> HTML </span>
-                <span style="font-size: 13px"> CSS </span>
+                <span style="font-size: 13px">Vue.js</span>
+                <span style="font-size: 13px">Pinia</span>
+                <span style="font-size: 13px">HTML</span>
+                <span style="font-size: 13px">CSS</span>
               </div>
             </article>
 
@@ -431,14 +429,15 @@
               <h3>Data</h3>
 
               <p>
-                Linux 환경에서 서비스를 운영하고 프로세스와 웹 서버를
-                관리합니다.
+                서비스 특성에 맞춰 데이터를 관리하고 MongoDB와 MySQL을 활용해
+                애플리케이션 데이터를 저장하며, Elasticsearch를 통해 검색 기능을
+                구성합니다.
               </p>
 
               <div class="technology-list">
-                <span style="font-size: 13px"> MongoDB </span>
-                <span style="font-size: 13px"> MySQL </span>
-                <span style="font-size: 13px"> Elasticsearch </span>
+                <span style="font-size: 13px">MongoDB</span>
+                <span style="font-size: 13px">MySQL</span>
+                <span style="font-size: 13px">Elasticsearch</span>
               </div>
             </article>
 
@@ -446,16 +445,16 @@
               <h3>Auth & Integration</h3>
 
               <p>
-                JWT와 Cookie를 활용한 인증 구조를 구현하고 API 접근을
-                관리합니다.
+                JWT와 Cookie 기반의 인증 구조를 구현하고 외부 스토리지 및 API와
+                연동하여 서비스 간 데이터와 파일을 안정적으로 처리합니다.
               </p>
 
               <div class="technology-list">
-                <span style="font-size: 13px"> JWT </span>
-                <span style="font-size: 13px"> Passport </span>
-                <span style="font-size: 13px"> Cookie </span>
-                <span style="font-size: 13px"> AWS S3 </span>
-                <span style="font-size: 13px"> bcrypt </span>
+                <span style="font-size: 13px">JWT</span>
+                <span style="font-size: 13px">Passport</span>
+                <span style="font-size: 13px">Cookie</span>
+                <span style="font-size: 13px">AWS S3</span>
+                <span style="font-size: 13px">bcrypt</span>
               </div>
             </article>
 
@@ -463,16 +462,17 @@
               <h3>Infrastructure</h3>
 
               <p>
-                로그와 검색 시스템을 활용해 문제를 추적하고 안정적인 개발 환경을
-                구성합니다.
+                Linux 환경에서 Nginx와 PM2를 활용해 웹 서비스와 Node.js
+                애플리케이션을 운영하고, AWS와 Cloudflare R2를 활용해 서비스
+                환경을 구성합니다.
               </p>
 
               <div class="technology-list">
-                <span style="font-size: 13px"> Linux </span>
-                <span style="font-size: 13px"> Nginx </span>
-                <span style="font-size: 13px"> PM2 </span>
-                <span style="font-size: 13px"> AWS </span>
-                <span style="font-size: 13px"> Cloudflare R2 </span>
+                <span style="font-size: 13px">Linux</span>
+                <span style="font-size: 13px">Nginx</span>
+                <span style="font-size: 13px">PM2</span>
+                <span style="font-size: 13px">AWS</span>
+                <span style="font-size: 13px">Cloudflare R2</span>
               </div>
             </article>
 
@@ -480,13 +480,14 @@
               <h3>Search & Monitoring</h3>
 
               <p>
-                로그와 검색 시스템을 활용해 문제를 추적하고 안정적인 개발 환경을
-                구성합니다.
+                Elasticsearch를 활용해 대용량 문서 검색 기능을 구성하고,
+                Kibana를 통해 검색 데이터와 시스템 로그를 확인하며 문제를
+                추적합니다.
               </p>
 
               <div class="technology-list">
-                <span style="font-size: 13px"> Elasticsearch </span>
-                <span style="font-size: 13px"> Kibana </span>
+                <span style="font-size: 13px">Elasticsearch</span>
+                <span style="font-size: 13px">Kibana</span>
               </div>
             </article>
 
@@ -494,16 +495,17 @@
               <h3>Architecture & Development</h3>
 
               <p>
-                로그와 검색 시스템을 활용해 문제를 추적하고 안정적인 개발 환경을
-                구성합니다.
+                기존 시스템의 구조와 요구사항을 분석하고, Express 기반 서비스를
+                NestJS와 TypeScript로 리빌딩하며 확장성과 유지보수성을 높이는
+                구조를 설계합니다.
               </p>
 
               <div class="technology-list">
-                <span style="font-size: 13px"> TypeScript 기반 리빌딩 </span>
-                <span style="font-size: 13px"> REST API 설계 </span>
-                <span style="font-size: 13px"> 인증/인가 </span>
-                <span style="font-size: 13px"> 파일 업로드/다운로드 </span>
-                <span style="font-size: 13px"> 데이터 마이그레이션 </span>
+                <span style="font-size: 8px">TypeScript 기반 리빌딩</span>
+                <span style="font-size: 8px">REST API 설계</span>
+                <span style="font-size: 8px">인증/인가</span>
+                <span style="font-size: 8px">파일 업로드/다운로드</span>
+                <span style="font-size: 8px">데이터 마이그레이션</span>
               </div>
             </article>
 
@@ -511,15 +513,15 @@
               <h3>Tooling</h3>
 
               <p>
-                로그와 검색 시스템을 활용해 문제를 추적하고 안정적인 개발 환경을
-                구성합니다.
+                Git을 활용해 소스코드를 관리하고 Swagger와 Postman을 통해 API를
+                문서화하고 테스트하며 안정적인 개발 과정을 유지합니다.
               </p>
 
               <div class="technology-list">
-                <span style="font-size: 13px"> Git </span>
-                <span style="font-size: 13px"> npm </span>
-                <span style="font-size: 13px"> Swagger </span>
-                <span style="font-size: 13px"> Postman </span>
+                <span style="font-size: 13px">Git</span>
+                <span style="font-size: 13px">npm</span>
+                <span style="font-size: 13px">Swagger</span>
+                <span style="font-size: 13px">Postman</span>
               </div>
             </article>
           </div>
@@ -574,10 +576,17 @@
                 </p>
 
                 <ul>
-                  <li>자사 그룹웨어 시스템, PMS 시스템 개발 및 운영</li>
-                  <li>대한적십자사 그룹웨어 개발</li>
-                  <li>SK엔펄스 / SK마이크로웍스 데이터 마이그레이션</li>
-                  <li>고객사 요구사항 분석 및 기능 개발</li>
+                  <li style="font-size: 14px">
+                    자사 그룹웨어 시스템(로그인, 일정, 전자결재, 조직도, WBS,
+                    회의관리, 팀공간, Project Manage Service 등) 개발 및 운영
+                  </li>
+                  <li style="font-size: 14px">대한적십자사 그룹웨어 개발</li>
+                  <li style="font-size: 14px">
+                    SK엔펄스 / SK마이크로웍스 데이터 마이그레이션
+                  </li>
+                  <li style="font-size: 14px">
+                    고객사 요구사항 분석 및 기능 개발
+                  </li>
                 </ul>
               </div>
             </article>
@@ -599,19 +608,27 @@
                 </p>
 
                 <ul>
-                  <li>
+                  <li style="font-size: 14px">
                     20여 개 고객사 그룹웨어 시스템 유지보수 (고객사 : 넥센,
                     귀뚜라미, 세방, 후성, 대법원(연구관리), 흥국생명, 코젠,
                     대한해운, 팬오션, 하림, NS홈쇼핑, 에쓰오일, 적십자, 팬택,
                     tlb, 에스트라, 이래AMS, 한세모빌리티, 동진쎄미캠, DSM,
                     티움바이오, 피유코어, 에이스테크 등)
                   </li>
-                  <li>사용자 요구사항 분석 및 기능 개선</li>
-                  <li>Vue.js 기반 화면 개발</li>
-                  <li>Node.js / Express 기반 API 개발</li>
-                  <li>MongoDB / Elasticsearch 검색 시스템 운영</li>
-                  <li>Linux / Nginx / PM2 기반 서비스 운영</li>
-                  <li>시스템 장애 대응 및 원인 분석</li>
+                  <li style="font-size: 14px">
+                    사용자 요구사항 분석 및 기능 개선
+                  </li>
+                  <li style="font-size: 14px">Vue.js 기반 화면 개발</li>
+                  <li style="font-size: 14px">
+                    Node.js / Express 기반 API 개발
+                  </li>
+                  <li style="font-size: 14px">
+                    MongoDB / Elasticsearch 검색 시스템 운영
+                  </li>
+                  <li style="font-size: 14px">
+                    Linux / Nginx / PM2 기반 서비스 운영
+                  </li>
+                  <li style="font-size: 14px">시스템 장애 대응 및 원인 분석</li>
                 </ul>
               </div>
             </article>
@@ -656,29 +673,73 @@
                   class="project-type"
                   style="font-size: 12px; font-weight: bolder"
                 >
-                  FULL-STACK / PERSONAL PROJECT
+                  FULL-STACK / PERSONAL PROJECT / 기간: 2026.04.01 ~ 2026.05.27
                 </span>
 
                 <h3>DOC DRIVE</h3>
-
-                <p class="project-subtitle">DOCUMENT MANAGEMENT SYSTEM</p>
-
+                <div class="technology-list">
+                  <span style="font-size: 13px">
+                    <a
+                      href="https://github.com/bigvillage/doc-drive-node"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      class="project-github-arrow"
+                      aria-label="DOC DRIVE GitHub"
+                      style="font-size: 15px; font-weight: bolder"
+                    >
+                      Node.js
+                    </a></span
+                  >
+                  <span style="font-size: 13px"
+                    ><a
+                      href="https://github.com/bigvillage/doc-drive-vue"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      class="project-github-arrow"
+                      aria-label="DOC DRIVE GitHub"
+                      style="font-size: 15px; font-weight: bolder"
+                    >
+                      Vue.js
+                    </a></span
+                  >
+                </div>
                 <div class="project-image">
                   <img
                     src="./assets/login.png"
                     alt="DOC DRIVE 문서관리시스템"
                   />
                 </div>
+                <br />
 
                 <p class="project-description">
-                  Node.js와 Express 기반으로 직접 설계하고 개발한
-                  문서관리시스템입니다. 문서 업로드·관리, 검색, 인증 및 사용자
-                  관리 기능을 구현했으며, MongoDB와 Elasticsearch를 연동해 문서
-                  데이터 관리와 검색 기능을 구성했습니다. 파일 저장소는
-                  Cloudflare R2를 활용하고 S3 호환 API를 통해 파일 업로드 및
-                  다운로드를 처리하여 애플리케이션 서버와 파일 저장 영역을
-                  분리했습니다.
+                  그룹웨어 개발 및 유지보수 경험을 바탕으로 직접 설계하고 개발한
+                  웹 기반 문서관리시스템입니다.
+                  <br /><br />
+                  문서와 첨부파일을 등록하고 조회·수정·삭제할 수 있으며,
+                  Elasticsearch를 이용한 문서 검색과 즐겨찾기, Object Storage
+                  기반 파일 관리 기능을 제공합니다.
+                  <br /><br />
                 </p>
+
+                <div class="project-info">
+                  <div class="project-info-item">
+                    <span class="label">주요 기능</span>
+                    <span
+                      >로그인 · 인증 · 문서 관리 · 파일 관리 · 검색 ·
+                      Dashboard</span
+                    >
+                  </div>
+
+                  <div class="project-info-item">
+                    <span class="label">REBUILDING</span>
+                    <span>Express → NestJS / JavaScript → TypeScript</span>
+                  </div>
+
+                  <div class="project-info-item">
+                    <span class="label">STORAGE</span>
+                    <span>Cloudflare R2 / Object Storage</span>
+                  </div>
+                </div>
 
                 <div class="technology-list">
                   <span style="font-size: 12px; font-weight: bolder"
@@ -766,19 +827,78 @@
                   class="project-type"
                   style="font-size: 12px; font-weight: bolder"
                 >
-                  FULL-STACK / REBUILDING PROJECT
+                  FULL-STACK / REBUILDING PROJECT / 기간: 2026.07.14 ~
+                  2026.08.14
                 </span>
 
                 <h3>DOC DRIVE</h3>
-
-                <p class="project-subtitle">DOCUMENT MANAGEMENT SYSTEM</p>
+                <div class="technology-list">
+                  <span style="font-size: 13px">
+                    <a
+                      href="https://github.com/bigvillage/doc-drive-nest-rebuilding"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      class="project-github-arrow"
+                      aria-label="DOC DRIVE GitHub"
+                      style="font-size: 15px; font-weight: bolder"
+                    >
+                      Node.js
+                    </a></span
+                  >
+                  <span style="font-size: 13px"
+                    ><a
+                      href="https://github.com/bigvillage/doc-drive-vue-rebuilding"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      class="project-github-arrow"
+                      aria-label="DOC DRIVE GitHub"
+                      style="font-size: 15px; font-weight: bolder"
+                    >
+                      Vue.js
+                    </a></span
+                  >
+                </div>
+                <br />
+                <div class="project-image">
+                  <img
+                    src="./assets/dashboard.png"
+                    alt="DOC DRIVE 문서관리시스템"
+                  />
+                </div>
+                <br />
 
                 <p class="project-description">
-                  기존 Express 기반으로 개발한 문서관리시스템을 NestJS와
-                  TypeScript 기반으로 리빌딩한 프로젝트입니다. 기존 기능을
-                  유지하면서 모듈화된 구조와 타입 안정성을 확보하고, 인증, 문서
-                  관리, 파일 업로드 및 검색 기능을 개선했습니다.
+                  그룹웨어 개발 및 유지보수 경험을 바탕으로 직접 설계하고 개발한
+                  웹 기반 문서관리시스템입니다.
+                  <br /><br />
+                  문서와 첨부파일을 등록하고 조회·수정·삭제할 수 있으며,
+                  Elasticsearch를 이용한 문서 검색과 즐겨찾기, Object Storage
+                  기반 파일 관리 기능을 제공합니다.
+                  <br /><br />
+                  기존 Express 프로젝트를
+                  <strong>NestJS + TypeScript + Vue 3 + TypeScript</strong>로
+                  리빌딩하여 구조와 타입 안정성을 개선했습니다.
                 </p>
+
+                <div class="project-info">
+                  <div class="project-info-item">
+                    <span class="label">주요 기능</span>
+                    <span
+                      >로그인 · 인증 · 문서 관리 · 파일 관리 · 검색 ·
+                      Dashboard</span
+                    >
+                  </div>
+
+                  <div class="project-info-item">
+                    <span class="label">REBUILDING</span>
+                    <span>Express → NestJS / JavaScript → TypeScript</span>
+                  </div>
+
+                  <div class="project-info-item">
+                    <span class="label">STORAGE</span>
+                    <span>Cloudflare R2 / Object Storage</span>
+                  </div>
+                </div>
 
                 <div class="technology-list">
                   <span style="font-size: 12px; font-weight: bolder"
@@ -813,7 +933,7 @@
                     >Axios</span
                   >
                   <span style="font-size: 12px; font-weight: bolder"
-                    >AWS S3</span
+                    >Cloudflare R2</span
                   >
                   <span style="font-size: 12px; font-weight: bolder"
                     >Nginx</span
@@ -1087,4 +1207,49 @@ onBeforeUnmount(() => {
   전체 포트폴리오 스타일은
   src/style.css에서 관리합니다.
 */
+.project-meta {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 10px;
+  font-size: 12px;
+  color: #888;
+}
+
+.project-subtitle {
+  margin: 0 0 8px;
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  font-weight: 700;
+  color: #888;
+}
+
+.project-title {
+  margin: 0 0 15px;
+  font-size: 28px;
+  font-weight: 800;
+}
+
+.project-info {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin: 20px 0;
+  padding: 15px 0;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+}
+
+.project-info-item {
+  display: flex;
+  gap: 15px;
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.project-info-item .label {
+  width: 90px;
+  flex-shrink: 0;
+  font-weight: 700;
+  color: #888;
+}
 </style>
