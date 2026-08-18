@@ -1,9 +1,5 @@
 <template>
   <div class="portfolio">
-    <!-- =====================================================
-         HEADER
-    ====================================================== -->
-
     <header class="site-header">
       <div class="header-inner">
         <a href="#top" class="logo"> KJH </a>
@@ -18,10 +14,6 @@
       </div>
     </header>
 
-    <!-- =====================================================
-         HERO
-    ====================================================== -->
-
     <main id="top">
       <section class="hero">
         <div class="container hero-container">
@@ -33,8 +25,6 @@
           </div>
 
           <div class="hero-grid">
-            <!-- LEFT -->
-
             <div class="hero-content">
               <div class="reveal hero-delay-2">
                 <p class="hero-name">KIM JAEHWAN</p>
@@ -110,8 +100,6 @@
               </div>
             </div>
 
-            <!-- RIGHT : CODE WINDOW -->
-
             <div class="hero-code reveal hero-delay-5">
               <div class="code-window">
                 <div class="code-header">
@@ -148,8 +136,6 @@
             </div>
           </div>
 
-          <!-- HERO BOTTOM -->
-
           <div class="hero-bottom reveal hero-delay-7">
             <div class="hero-bottom-item">
               <span style="font-size: 20px !important; font-weight: bolder">
@@ -183,10 +169,6 @@
           </div>
         </div>
       </section>
-
-      <!-- ===================================================
-           ABOUT
-      ==================================================== -->
 
       <section id="about" class="section about-section">
         <div class="container">
@@ -345,10 +327,6 @@
           </div>
         </div>
       </section>
-
-      <!-- ===================================================
-           SKILLS
-      ==================================================== -->
 
       <section id="skills" class="section skills-section">
         <div class="container">
@@ -527,10 +505,6 @@
           </div>
         </div>
       </section>
-
-      <!-- ===================================================
-           EXPERIENCE
-      ==================================================== -->
 
       <section id="experience" class="section experience-section">
         <div class="container">
@@ -998,10 +972,6 @@
         </div>
       </section>
 
-      <!-- ===================================================
-           WRITING
-      ==================================================== -->
-
       <section class="section writing-section">
         <div class="container">
           <div class="section-top">
@@ -1160,10 +1130,6 @@
         </div>
       </section>
 
-      <!-- ===================================================
-           FOOTER
-      ==================================================== -->
-
       <footer class="footer">
         <div class="container footer-inner">
           <div class="footer-left">
@@ -1217,12 +1183,6 @@ onBeforeUnmount(() => {
 </script>
 
 <style>
-/*
-  App.vue에서는 별도의 스타일을 사용하지 않습니다.
-
-  전체 포트폴리오 스타일은
-  src/style.css에서 관리합니다.
-*/
 .project-meta {
   display: flex;
   gap: 20px;
