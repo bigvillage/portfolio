@@ -1003,11 +1003,11 @@
               </div>
 
               <div class="writing-content">
-                <h3>[Node.js] Express란? (정의 및 사용법)</h3>
+                <h3>[Node.js] JWT(Json Web Token)를 이용한 로그인 인증 구현</h3>
               </div>
 
               <a
-                href="https://j-bbang.tistory.com/26"
+                href="https://j-bbang.tistory.com/35"
                 target="_blank"
                 rel="noopener noreferrer"
                 class="writing-arrow"
@@ -1019,15 +1019,15 @@
 
             <article class="writing-item">
               <div class="writing-meta">
-                <span> FRONTEND </span>
+                <span> BACKEND </span>
               </div>
 
               <div class="writing-content">
-                <h3>[Vue.js] Vue3 시작하기</h3>
+                <h3>cloudflare R2 연동</h3>
               </div>
 
               <a
-                href="https://j-bbang.tistory.com/8"
+                href="https://j-bbang.tistory.com/33"
                 target="_blank"
                 rel="noopener noreferrer"
                 class="writing-arrow"
