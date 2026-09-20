@@ -568,7 +568,7 @@
             <!-- SM -->
             <article class="experience-item">
               <div class="experience-company">
-                <span style="font-size: 20px">2024.06 — 2025.12</span>
+                <span style="font-size: 20px">2024.07 — 2025.12</span>
 
                 <h3>새롬정보시스템</h3>
 
